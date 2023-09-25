@@ -19,7 +19,6 @@
 
 -- navbar.header:
 logo: $assets.files.images.logo.svg
-
 header-item1: Home
 header-item2: About
 header-item3: Blogs
